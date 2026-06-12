@@ -1,4 +1,3 @@
-# DecodeLabs-Project1-Chatbot
 # 🤖 Project 1: Rule-Based AI Chatbot
 ## DecodeLabs Industrial Training | Batch 2026
 
